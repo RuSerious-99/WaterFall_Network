@@ -43,6 +43,8 @@ public class ReplyMessageCommand extends Command {
                     player.sendMessage("You have not messaged anyone recently.");
                 }
             } else {
+
+
                 player.sendMessage(ChatColor.RED + "Usage: /reply <message>");
 
             }
