@@ -1,0 +1,5 @@
+name: Waterfall_Network
+version: '${project.version}'
+main: com.ruserious99.network.Network
+description: various bungee network things eg:commands events schedules MOTD
+author: RuSerious
